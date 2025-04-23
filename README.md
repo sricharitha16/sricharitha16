@@ -1,5 +1,5 @@
 # 💫 Hi, I am Sricharitha!
-Studied Master of Science in Computer science at The University of Texas at Arlington, USA
+👩‍🎓 Studied Master of Science in Computer science at The University of Texas at Arlington, USA
 
 
 # 💻 Tech Stack:
